@@ -1,11 +1,11 @@
-#  Skill Name
+#  Get access to Piazza and post something
 
-Author: FirstName LastName
+Author: Arnaud Harmange
 
-Date: YYYY-MM-DD
+Date: 2020-09-07
 -----
 
-## Summary
+## Posted To piazza
 
 
 ## Sketches and Photos
