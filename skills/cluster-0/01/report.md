@@ -1,11 +1,11 @@
-#  Skill Name
+#  Setup Editors and IDEs
 
-Author: FirstName LastName
+Author: Arnaud Harmange
 
-Date: YYYY-MM-DD
+Date: 2020-09-07
 -----
 
-## Summary
+## using Xcode for macOS as my IDE
 
 
 ## Sketches and Photos
