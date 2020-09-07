@@ -1,12 +1,16 @@
-#  Skill Name
+#  Uploading Video to Cloud
 
-Author: FirstName LastName
+Author: Arnaud Harmange
 
-Date: YYYY-MM-DD
+Date: 2020-09-07
 -----
 
-## Summary
+## Link to the intro video:
+https://www.youtube.com/watch?v=Gid6Kjlk4_g&ab_channel=ArnaudHarmange
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=Gid6Kjlk4_g&ab_channel=ArnaudHarmange">
+</iframe>
 
 ## Sketches and Photos
 
